@@ -11,7 +11,7 @@ const nextConfig = {
     contactUrl: 'https://RandomShits-hits.github.io/Kasm-registry/support',
   },
   reactStrictMode: true,
-  basePath: '/Kasm-registry/1.1',
+  basePath: '/Kasm-registry/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
