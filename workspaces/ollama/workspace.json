@@ -16,8 +16,8 @@
       "image": "ghcr.io/open-webui/open-webui:ollama",
       "uncompressed_size_mb": 4096,
       "available_tags": [
-        "develop",
-        "1.17.0"
+        "ollama",
+        "latest"
       ]
     }
   ]
