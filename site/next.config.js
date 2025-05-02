@@ -4,8 +4,8 @@ const nextConfig = {
   output: 'export',
   distDir: '../public',
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Sam\'s Labs',
+    description: 'The official store for Sam\'s Labs supported workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://RandomShits-hits.github.io/Kasm-registry/',
     contactUrl: 'https://RandomShits-hits.github.io/Kasm-registry/support',
